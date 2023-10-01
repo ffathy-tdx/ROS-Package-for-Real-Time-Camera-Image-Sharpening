@@ -1,0 +1,16 @@
+<launch>
+
+  <!-- Start roscore -->
+  <node name="roscore" pkg="ros" type="roscore" output="screen"/>
+
+  <!-- Launch camera publisher -->
+  <node name="camera_publisher_node" pkg="task2" type="cam_pub.py" output="screen"/>
+
+  <!-- Launch camera subscriber -->
+  <node name="camera_subscriber_node" pkg="task2" type="cam_sub.py" output="screen"/>
+
+  <!-- Launch RQT Image View -->
+  <node name="rqt_image_view" pkg="rqt_image_view" type="rqt_image_view" output="screen"/>
+
+</launch>
+
