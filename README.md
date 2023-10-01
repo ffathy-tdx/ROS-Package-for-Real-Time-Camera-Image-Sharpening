@@ -28,19 +28,19 @@ Follow these steps to set up the required environment:
 
 2. Clone the GitHub Repository
 
-Output and Visualization
+##Output and Visualization
 The project captures a raw camera feed, sharpens it in real-time, and publishes the sharpened images to 'sharpened_image_topic.' You can use RQT Image View to visualize the sharpened images as they are published.
 
-Code Flow
+##Code Flow
 The code consists of two main nodes: the camera publisher node (camera_publisher_node.py) and the camera subscriber node (camera_subscriber_node.py). The publisher captures raw camera images, while the subscriber applies real-time image sharpening and publishes the results.
 
-Contributing
+##Contributing
 Contributions to this project are welcome. If you have suggestions or would like to contribute, please fork the repository and create a pull request.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+##Contact
 For questions or support, you can contact the project maintainer:
 
 Name: Fares Fathy
