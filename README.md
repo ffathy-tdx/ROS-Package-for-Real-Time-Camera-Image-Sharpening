@@ -19,7 +19,7 @@ This is the ROS package for Task 2 of the Skyxperts project. The package is desi
 
 - ROS Noetic
 - Python 3
-- 
+  
 ## Installation
 
 Follow these steps to set up the required environment:
