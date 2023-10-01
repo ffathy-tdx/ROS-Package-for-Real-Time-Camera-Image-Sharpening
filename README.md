@@ -19,18 +19,14 @@ This is the ROS package for Task 2 of the Skyxperts project. The package is desi
 
 - ROS Noetic
 - Python 3
-- OpenCV
-
+- 
 ## Installation
 
 Follow these steps to set up the required environment:
 
 1. Install ROS Noetic by following the official [ROS Noetic Installation Guide](http://wiki.ros.org/noetic/Installation).
 
-2. Install OpenCV using the following command:
-
-   ```bash
-   sudo apt-get install python3-opencv
+2. Clone the GitHub Repository
 
 Output and Visualization
 The project captures a raw camera feed, sharpens it in real-time, and publishes the sharpened images to 'sharpened_image_topic.' You can use RQT Image View to visualize the sharpened images as they are published.
