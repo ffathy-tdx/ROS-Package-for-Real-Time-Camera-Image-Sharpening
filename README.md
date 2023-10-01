@@ -8,8 +8,6 @@
 
 This is the ROS package for Task 2 of the Skyxperts project. The package is designed for real-time camera image sharpening and publishing in a ROS environment. It captures a raw camera feed, applies image sharpening, and publishes the sharpened images to a ROS topic.
 
-![Sharpened Image](images/sharpened_image.png)
-
 ## Features
 
 - Captures raw camera images and publishes them to 'raw_camera_topic'.
