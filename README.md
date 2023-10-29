@@ -44,5 +44,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or support, you can contact the project maintainer:
 
 Name: Fares Fathy
-Email: ffathy2004@hotmail.com
+Email: ffathy2004@gmail.com
 GitHub: github.com/ffathy-tdx
