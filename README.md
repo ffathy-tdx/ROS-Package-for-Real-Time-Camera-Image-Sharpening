@@ -1,4 +1,4 @@
-# Skyxperts Task 2
+#  ROS real-time camera image sharpening 
 
 [![ROS](https://img.shields.io/badge/ROS-Noetic-brightgreen)](http://wiki.ros.org/noetic)
 [![Python](https://img.shields.io/badge/Python-3-blue)](https://www.python.org/)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is the ROS package for Task 2 of the Skyxperts project. The package is designed for real-time camera image sharpening and publishing in a ROS environment. It captures a raw camera feed, applies image sharpening, and publishes the sharpened images to a ROS topic.
+This ROS package is designed for real-time camera image sharpening and publishing in a ROS environment. It captures a raw camera feed, applies image sharpening, and publishes the sharpened images to a ROS topic.
 
 ## Features
 
